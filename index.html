@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Juxtapose Slider</title>
-  <link rel="stylesheet" href="style.css">
-  <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
-  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juxtapose Slider</title>
+    <!-- JuxtaposeJS Stylesheet -->
+    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
+    <link rel="stylesheet" href="style.css"> <!-- Your custom styles -->
+    <!-- JuxtaposeJS Script -->
+    <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
 </head>
 <body>
-  <h1>Customized Juxtapose Slider</h1>
-  <div id="juxtapose-container">
-    <div class="juxtapose" data-mode="horizontal">
-      <img src="before.png" data-label="Before" alt="Before">
-      <img src="after.png" data-label="After" alt="After">
+    <h1>Juxtapose Before/After Slider</h1>
+    <div id="juxtapose-container">
+        <div class="juxtapose" data-mode="horizontal" style="width: 100%; max-width: 800px; height: 400px;">
+            <img src="before.jpg" data-label="Before" alt="Before Image">
+            <img src="after.jpg" data-label="After" alt="After Image">
+        </div>
     </div>
-  </div>
 </body>
 </html>
