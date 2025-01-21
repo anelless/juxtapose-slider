@@ -1,0 +1,25 @@
+/* Customize the slider handle */
+.jx-handle {
+  background-color: #000000 !important; /* Change the color here */
+  border: 2px solid #000 !important;
+}
+
+/* Customize the slider track */
+.jx-slider {
+  background-color: #000000 !important; /* Change the color here */
+}
+
+/* Optional: Add spacing and styling */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+#juxtapose-container {
+  max-width: 800px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
