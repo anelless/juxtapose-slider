@@ -1,11 +1,11 @@
 {
   "images": [
     {
-      "src": "before.png",
+      "src": "https://www.dropbox.com/scl/fi/hw5m3c1ilg1vh780srdb4/before.png?rlkey=73f1zd5eb65of9z0l8lqinay3&st=prhb0htc&dl=0",
       "label": "Before"
     },
     {
-      "src": "/after.png",
+      "src": "/https://www.dropbox.com/scl/fi/mb8xi1u3me7g2enxm8dar/after.png?rlkey=mhxbvoekdp0og0zpukqeban0a&st=poeyxnrh&dl=0",
       "label": "After"
     }
   ],
