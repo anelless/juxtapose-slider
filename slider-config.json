@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "src": "before.png",
+      "label": "Before"
+    },
+    {
+      "src": "/after.png",
+      "label": "After"
+    }
+  ],
+  "options": {
+    "animate": true,
+    "showLabels": true,
+    "startPosition": 50
+  }
+}
