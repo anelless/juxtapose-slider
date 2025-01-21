@@ -1,25 +1,24 @@
 /* Customize the slider handle */
 .jx-handle {
-  background-color: #000000 !important; /* Change the color here */
-  border: 2px solid #000 !important;
+    background-color: #000000 !important; /* Change this color */
+    border: 2px solid #000 !important;   /* Optional border */
 }
 
 /* Customize the slider track */
 .jx-slider {
-  background-color: #000000 !important; /* Change the color here */
+    background-color: #000000 !important; /* Change this color */
 }
 
-/* Optional: Add spacing and styling */
+/* General page styling */
 body {
-  font-family: Arial, sans-serif;
-  text-align: center;
-  margin: 0;
-  padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
 }
 
 #juxtapose-container {
-  max-width: 800px;
-  margin: 20px auto;
-  border: 1px solid #ccc;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
+
