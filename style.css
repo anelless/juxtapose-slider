@@ -1,12 +1,12 @@
 /* Customize the slider handle */
 .jx-handle {
-    background-color: #000000 !important; /* Change this color */
-    border: 2px solid #000 !important;   /* Optional border */
+    background-color: #000000; /* Change this color */
+    border: 2px solid #000;   /* Optional border */
 }
 
 /* Customize the slider track */
 .jx-slider {
-    background-color: #000000 !important; /* Change this color */
+    background-color: #000000; /* Change this color */
 }
 
 /* General page styling */
